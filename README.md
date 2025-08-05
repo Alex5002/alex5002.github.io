@@ -1,4 +1,1 @@
-Welcome to
-# Alex5002's website
-
-*under construction*
+This is the source code for my GitHub page :)
